@@ -1,5 +1,4 @@
 # Sentiment Analysis Project on Twitter
-# Manit Bhardwaj 
 
 import numpy as np
 import pandas as pd
